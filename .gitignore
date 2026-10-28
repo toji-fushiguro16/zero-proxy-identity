@@ -1,9 +1,11 @@
+
 venv/
-.venv/
+**/venv/
 __pycache__/
 *.py[cod]
 .env
-backend/.env
+**/.env
 .idea/
 .vscode/
 .DS_Store
+users.db
